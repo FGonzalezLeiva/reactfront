@@ -2,13 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 // {Mapa} from './views/mapa'
 
-const Mapa =()=> {
-  return (
-    <div>
-        hola
-    </div>
-  );
-}
+
 
 function App() {
   //<Mapa />
